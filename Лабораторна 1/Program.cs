@@ -4,7 +4,7 @@ using System.Text;
 
 namespace EventPageGenerator
 {
-    // Об'єкт zrbq зберігає інф. про подію
+    // об'єкт що зберігає інф. про подію
     public class Event
     {
         public DateTime Date { get; set; }
